@@ -2,7 +2,7 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
-      <module fileurl="file://$PROJECT_DIR$/FStoViever.iml" filepath="$PROJECT_DIR$/FStoViever.iml" />
+      <module fileurl="file://$PROJECT_DIR$/FStoViewer.iml" filepath="$PROJECT_DIR$/FStoViewer.iml" />
       <module fileurl="file://$PROJECT_DIR$/app/app.iml" filepath="$PROJECT_DIR$/app/app.iml" />
     </modules>
   </component>
